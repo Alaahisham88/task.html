@@ -1,0 +1,15 @@
+p { 
+  text-align: center;
+  padding: 20px;
+  font-size: 20;
+}
+ 
+.universities{
+     display: flex; 
+     width:fit-content; 
+     flex-direction: row;
+}
+
+.image1,.image2,.image3,.image4{
+  margin: 50px;
+}
